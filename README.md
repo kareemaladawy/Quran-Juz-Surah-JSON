@@ -18,10 +18,10 @@ Clone the repository or download the individual JSON files to integrate Quranic 
 
 ```json
 {
-  "id": 1,
-  "name": "Juz' 1",
-  "name_ar": "الجزء الأول",
-  "number": 1
+    "id": 1,
+    "name": "Juz' 1",
+    "name_ar": "الجزء الأول",
+    "number": 1
 }
 ```
 
@@ -29,12 +29,12 @@ Clone the repository or download the individual JSON files to integrate Quranic 
 
 ```json
 {
-      "id": 1,
-      "name_ar": "الفاتحة",
-      "name": "Al-Fatihah",
-      "type": "meccan",
-      "type_ar": "مكية",
-      "total_verses": 7,
-      "starts_at_juz": 1,
-      "ends_at_juz": 1
+    "id": 1,
+    "name_ar": "الفاتحة",
+    "name": "Al-Fatihah",
+    "type": "meccan",
+    "type_ar": "مكية",
+    "total_verses": 7,
+    "starts_at_juz": 1,
+    "ends_at_juz": 1
 }
