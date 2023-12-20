@@ -1,0 +1,1143 @@
+[
+    {
+      "id": 1,
+      "name_ar": "الفاتحة",
+      "name": "Al-Fatihah",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 7,
+      "starts_at_juz": 1,
+      "ends_at_juz": 1
+    },
+    {
+      "id": 2,
+      "name_ar": "البقرة",
+      "name": "Al-Baqarah",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 286,
+      "starts_at_juz": 1,
+      "ends_at_juz": 3
+    },
+    {
+      "id": 3,
+      "name_ar": "آل عمران",
+      "name": "Ali 'Imran",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 200,
+      "starts_at_juz": 3,
+      "ends_at_juz": 4
+    },
+    {
+      "id": 4,
+      "name_ar": "النساء",
+      "name": "An-Nisa",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 176,
+      "starts_at_juz": 4,
+      "ends_at_juz": 6
+    },
+    {
+      "id": 5,
+      "name_ar": "المائدة",
+      "name": "Al-Ma'idah",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 120,
+      "starts_at_juz": 6,
+      "ends_at_juz": 7
+    },
+    {
+      "id": 6,
+      "name_ar": "الأنعام",
+      "name": "Al-An'am",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 165,
+      "starts_at_juz": 7,
+      "ends_at_juz": 8
+    },
+    {
+      "id": 7,
+      "name_ar": "الأعراف",
+      "name": "Al-A'raf",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 206,
+      "starts_at_juz": 8,
+      "ends_at_juz": 9
+    },
+    {
+      "id": 8,
+      "name_ar": "الأنفال",
+      "name": "Al-Anfal",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 75,
+      "starts_at_juz": 9,
+      "ends_at_juz": 10
+    },
+    {
+      "id": 9,
+      "name_ar": "التوبة",
+      "name": "At-Tawbah",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 129,
+      "starts_at_juz": 10,
+      "ends_at_juz": 11
+    },
+    {
+      "id": 10,
+      "name_ar": "يونس",
+      "name": "Yunus",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 109,
+      "starts_at_juz": 11,
+      "ends_at_juz": 11
+    },
+    {
+      "id": 11,
+      "name_ar": "هود",
+      "name": "Hud",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 123,
+      "starts_at_juz": 11,
+      "ends_at_juz": 12
+    },
+    {
+      "id": 12,
+      "name_ar": "يوسف",
+      "name": "Yusuf",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 111,
+      "starts_at_juz": 12,
+      "ends_at_juz": 13
+    },
+    {
+      "id": 13,
+      "name_ar": "الرعد",
+      "name": "Ar-Ra'd",
+      "type": "medinan",
+      "type_ar": "مدنية",
+      "total_verses": 43,
+      "starts_at_juz": 13,
+      "ends_at_juz": 13
+    },
+    {
+      "id": 14,
+      "name_ar": "ابراهيم",
+      "name": "Ibrahim",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 52,
+      "starts_at_juz": 13,
+      "ends_at_juz": 13
+    },
+    {
+      "id": 15,
+      "name_ar": "الحجر",
+      "name": "Al-Hijr",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 99,
+      "starts_at_juz": 14,
+      "ends_at_juz": 14
+    },
+    {
+      "id": 16,
+      "name_ar": "النحل",
+      "name": "An-Nahl",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 128,
+      "starts_at_juz": 14,
+      "ends_at_juz": 14
+    },
+    {
+      "id": 17,
+      "name_ar": "الإسراء",
+      "name": "Al-Isra",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 111,
+      "starts_at_juz": 15,
+      "ends_at_juz": 15
+    },
+    {
+      "id": 18,
+      "name_ar": "الكهف",
+      "name": "Al-Kahf",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 110,
+      "starts_at_juz": 15,
+      "ends_at_juz": 16
+    },
+    {
+      "id": 19,
+      "name_ar": "مريم",
+      "name": "Maryam",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 98,
+      "starts_at_juz": 16,
+      "ends_at_juz": 16
+    },
+    {
+      "id": 20,
+      "name_ar": "طه",
+      "name": "Taha",
+      "type": "meccan",
+      "type_ar": "مكية",
+      "total_verses": 135,
+      "starts_at_juz": 16,
+      "ends_at_juz": 16
+    },
+    {
+        "id": 21,
+        "name_ar": "الأنبياء",
+        "name": "Al-Anbya",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 112,
+        "starts_at_juz": 17,
+        "ends_at_juz": 17
+    },
+    {
+        "id": 22,
+        "name_ar": "الحج",
+        "name": "Al-Hajj",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 78,
+        "starts_at_juz": 17,
+        "ends_at_juz": 17
+    },
+    {
+        "id": 23,
+        "name_ar": "المؤمنون",
+        "name": "Al-Mu'minun",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 118,
+        "starts_at_juz": 18,
+        "ends_at_juz": 18
+    },
+    {
+        "id": 24,
+        "name_ar": "النور",
+        "name": "An-Nur",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 64,
+        "starts_at_juz": 18,
+        "ends_at_juz": 18
+    },
+    {
+        "id": 25,
+        "name_ar": "الفرقان",
+        "name": "Al-Furqan",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 77,
+        "starts_at_juz": 18,
+        "ends_at_juz": 19
+    },
+    {
+        "id": 26,
+        "name_ar": "الشعراء",
+        "name": "Ash-Shu'ara",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 227,
+        "starts_at_juz": 19,
+        "ends_at_juz": 19
+    },
+    {
+        "id": 27,
+        "name_ar": "النمل",
+        "name": "An-Naml",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 93,
+        "starts_at_juz": 19,
+        "ends_at_juz": 20
+    },
+    {
+        "id": 28,
+        "name_ar": "القصص",
+        "name": "Al-Qasas",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 88,
+        "starts_at_juz": 20,
+        "ends_at_juz": 20
+    },
+    {
+        "id": 29,
+        "name_ar": "العنكبوت",
+        "name": "Al-'Ankabut",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 69,
+        "starts_at_juz": 20,
+        "ends_at_juz": 21
+    },
+    {
+        "id": 30,
+        "name_ar": "الروم",
+        "name": "Ar-Rum",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 60,
+        "starts_at_juz": 21,
+        "ends_at_juz": 21
+    },
+    {
+        "id": 31,
+        "name_ar": "لقمان",
+        "name": "Luqman",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 34,
+        "starts_at_juz": 21,
+        "ends_at_juz": 21
+    },
+    {
+        "id": 32,
+        "name_ar": "السجدة",
+        "name": "As-Sajdah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 30,
+        "starts_at_juz": 21,
+        "ends_at_juz": 21
+    },
+    {
+        "id": 33,
+        "name_ar": "الأحزاب",
+        "name": "Al-Ahzab",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 73,
+        "starts_at_juz": 21,
+        "ends_at_juz": 22
+    },
+    {
+        "id": 34,
+        "name_ar": "سبإ",
+        "name": "Saba",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 54,
+        "starts_at_juz": 22,
+        "ends_at_juz": 22
+    },
+    {
+        "id": 35,
+        "name_ar": "فاطر",
+        "name": "Fatir",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 45,
+        "starts_at_juz": 22,
+        "ends_at_juz": 22
+    },
+    {
+        "id": 36,
+        "name_ar": "يس",
+        "name": "Ya-Sin",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 83,
+        "starts_at_juz": 22,
+        "ends_at_juz": 23
+    },
+    {
+        "id": 37,
+        "name_ar": "الصافات",
+        "name": "As-Saffat",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 182,
+        "starts_at_juz": 23,
+        "ends_at_juz": 23
+    },
+    {
+        "id": 38,
+        "name_ar": "ص",
+        "name": "Sad",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 88,
+        "starts_at_juz": 23,
+        "ends_at_juz": 23
+    },
+    {
+        "id": 39,
+        "name_ar": "الزمر",
+        "name": "Az-Zumar",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 75,
+        "starts_at_juz": 23,
+        "ends_at_juz": 24
+    },
+    {
+        "id": 40,
+        "name_ar": "غافر",
+        "name": "Ghafir",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 85,
+        "starts_at_juz": 24,
+        "ends_at_juz": 24
+    },
+    {
+        "id": 41,
+        "name_ar": "فصلت",
+        "name": "Fussilat",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 54,
+        "starts_at_juz": 24,
+        "ends_at_juz": 25
+    },
+    {
+        "id": 42,
+        "name_ar": "الشورى",
+        "name": "Ash-Shuraa",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 53,
+        "starts_at_juz": 25,
+        "ends_at_juz": 25
+    },
+    {
+        "id": 43,
+        "name_ar": "الزخرف",
+        "name": "Az-Zukhruf",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 89,
+        "starts_at_juz": 25,
+        "ends_at_juz": 25
+    },
+    {
+        "id": 44,
+        "name_ar": "الدخان",
+        "name": "Ad-Dukhan",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 59,
+        "starts_at_juz": 25,
+        "ends_at_juz": 25
+    },
+    {
+        "id": 45,
+        "name_ar": "الجاثية",
+        "name": "Al-Jathiyah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 37,
+        "starts_at_juz": 25,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 46,
+        "name_ar": "الأحقاف",
+        "name": "Al-Ahqaf",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 35,
+        "starts_at_juz": 26,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 47,
+        "name_ar": "محمد",
+        "name": "Muhammad",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 38,
+        "starts_at_juz": 26,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 48,
+        "name_ar": "الفتح",
+        "name": "Al-Fath",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 29,
+        "starts_at_juz": 26,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 49,
+        "name_ar": "الحجرات",
+        "name": "Al-Hujurat",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 18,
+        "starts_at_juz": 26,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 50,
+        "name_ar": "ق",
+        "name": "Qaf",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 45,
+        "starts_at_juz": 26,
+        "ends_at_juz": 26
+    },
+    {
+        "id": 51,
+        "name_ar": "الذاريات",
+        "name": "Adh-Dhariyat",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 60,
+        "starts_at_juz": 26,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 52,
+        "name_ar": "الطور",
+        "name": "At-Tur",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 49,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 53,
+        "name_ar": "النجم",
+        "name": "An-Najm",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 62,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 54,
+        "name_ar": "القمر",
+        "name": "Al-Qamar",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 55,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 55,
+        "name_ar": "الرحمن",
+        "name": "Ar-Rahman",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 78,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 56,
+        "name_ar": "الواقعة",
+        "name": "Al-Waqi'ah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 96,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 57,
+        "name_ar": "الحديد",
+        "name": "Al-Hadid",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 29,
+        "starts_at_juz": 27,
+        "ends_at_juz": 27
+    },
+    {
+        "id": 58,
+        "name_ar": "المجادلة",
+        "name": "Al-Mujadila",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 22,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 59,
+        "name_ar": "الحشر",
+        "name": "Al-Hashr",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 24,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 60,
+        "name_ar": "الممتحنة",
+        "name": "Al-Mumtahanah",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 13,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 61,
+        "name_ar": "الصف",
+        "name": "As-Saf",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 14,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 62,
+        "name_ar": "الجمعة",
+        "name": "Al-Jumu'ah",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 11,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 63,
+        "name_ar": "المنافقون",
+        "name": "Al-Munafiqun",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 11,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 64,
+        "name_ar": "التغابن",
+        "name": "At-Taghabun",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 18,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 65,
+        "name_ar": "الطلاق",
+        "name": "At-Talaq",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 12,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 66,
+        "name_ar": "التحريم",
+        "name": "At-Tahrim",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 12,
+        "starts_at_juz": 28,
+        "ends_at_juz": 28
+    },
+    {
+        "id": 67,
+        "name_ar": "الملك",
+        "name": "Al-Mulk",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 30,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 68,
+        "name_ar": "القلم",
+        "name": "Al-Qalam",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 52,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 69,
+        "name_ar": "الحاقة",
+        "name": "Al-Haqqah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 52,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 70,
+        "name_ar": "المعارج",
+        "name": "Al-Ma'arij",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 44,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 71,
+        "name_ar": "نوح",
+        "name": "Nuh",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 28,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 72,
+        "name_ar": "الجن",
+        "name": "Al-Jinn",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 28,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 73,
+        "name_ar": "المزمل",
+        "name": "Al-Muzzammil",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 20,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 74,
+        "name_ar": "المدثر",
+        "name": "Al-Muddaththir",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 56,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 75,
+        "name_ar": "القيامة",
+        "name": "Al-Qiyamah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 40,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 76,
+        "name_ar": "الانسان",
+        "name": "Al-Insan",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 31,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 77,
+        "name_ar": "المرسلات",
+        "name": "Al-Mursalat",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 50,
+        "starts_at_juz": 29,
+        "ends_at_juz": 29
+    },
+    {
+        "id": 78,
+        "name_ar": "النبأ",
+        "name": "An-Naba",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 40,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 79,
+        "name_ar": "النازعات",
+        "name": "An-Nazi'at",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 46,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 80,
+        "name_ar": "عبس",
+        "name": "'Abasa",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 42,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 81,
+        "name_ar": "التكوير",
+        "name": "At-Takwir",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 29,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 82,
+        "name_ar": "الإنفطار",
+        "name": "Al-Infitar",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 19,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 83,
+        "name_ar": "المطففين",
+        "name": "Al-Mutaffifin",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 36,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 84,
+        "name_ar": "الإنشقاق",
+        "name": "Al-Inshiqaq",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 25,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 85,
+        "name_ar": "البروج",
+        "name": "Al-Buruj",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 22,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 86,
+        "name_ar": "الطارق",
+        "name": "At-Tariq",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 17,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 87,
+        "name_ar": "الأعلى",
+        "name": "Al-A'la",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 19,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 88,
+        "name_ar": "الغاشية",
+        "name": "Al-Ghashiyah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 26,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 89,
+        "name_ar": "الفجر",
+        "name": "Al-Fajr",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 30,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 90,
+        "name_ar": "البلد",
+        "name": "Al-Balad",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 20,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 91,
+        "name_ar": "الشمس",
+        "name": "Ash-Shams",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 15,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 92,
+        "name_ar": "الليل",
+        "name": "Al-Layl",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 21,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 93,
+        "name_ar": "الضحى",
+        "name": "Ad-Duhaa",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 11,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 94,
+        "name_ar": "الشرح",
+        "name": "Ash-Sharh",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 8,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 95,
+        "name_ar": "التين",
+        "name": "At-Tin",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 8,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 96,
+        "name_ar": "العلق",
+        "name": "Al-'Alaq",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 19,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 97,
+        "name_ar": "القدر",
+        "name": "Al-Qadr",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 5,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 98,
+        "name_ar": "البينة",
+        "name": "Al-Bayyinah",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 8,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 99,
+        "name_ar": "الزلزلة",
+        "name": "Az-Zalzalah",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 8,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 100,
+        "name_ar": "العاديات",
+        "name": "Al-'Adiyat",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 11,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 101,
+        "name_ar": "القارعة",
+        "name": "Al-Qari'ah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 11,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 102,
+        "name_ar": "التكاثر",
+        "name": "At-Takathur",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 8,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 103,
+        "name_ar": "العصر",
+        "name": "Al-'Asr",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 3,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 104,
+        "name_ar": "الهمزة",
+        "name": "Al-Humazah",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 9,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 105,
+        "name_ar": "الفيل",
+        "name": "Al-Fil",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 5,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 106,
+        "name_ar": "قريش",
+        "name": "Quraysh",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 4,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 107,
+        "name_ar": "الماعون",
+        "name": "Al-Ma'un",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 7,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 108,
+        "name_ar": "الكوثر",
+        "name": "Al-Kawthar",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 3,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 109,
+        "name_ar": "الكافرون",
+        "name": "Al-Kafirun",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 6,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 110,
+        "name_ar": "النصر",
+        "name": "An-Nasr",
+        "type": "medinan",
+        "type_ar": "مدنية",
+        "total_verses": 3,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 111,
+        "name_ar": "المسد",
+        "name": "Al-Masad",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 5,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 112,
+        "name_ar": "الإخلاص",
+        "name": "Al-Ikhlas",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 4,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 113,
+        "name_ar": "الفلق",
+        "name": "Al-Falaq",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 5,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    },
+    {
+        "id": 114,
+        "name_ar": "الناس",
+        "name": "An-Nas",
+        "type": "meccan",
+        "type_ar": "مكية",
+        "total_verses": 6,
+        "starts_at_juz": 30,
+        "ends_at_juz": 30
+    } 
+]
+      
